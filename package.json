@@ -1,0 +1,30 @@
+{
+  "name": "filter-transform",
+  "version": "0.0.0",
+  "description": "filter (browserify) transforms by predicates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/quarterto/filter-transform.git"
+  },
+  "keywords": [
+    "browserify",
+    "browserify-plugin",
+    "browserify-transform",
+    "stream",
+    "filter",
+    "transform"
+  ],
+  "author": "Matt Brennan <mwrbrennan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quarterto/filter-transform/issues"
+  },
+  "homepage": "https://github.com/quarterto/filter-transform",
+  "dependencies": {
+    "through": "^2.3.4"
+  }
+}
