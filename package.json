@@ -1,6 +1,6 @@
 {
   "name": "filter-transform",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "filter (browserify) transforms by predicates",
   "main": "index.js",
   "scripts": {
